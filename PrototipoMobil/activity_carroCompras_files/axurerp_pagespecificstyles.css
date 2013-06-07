@@ -1,0 +1,864 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../activity_carroCompras_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:160px;
+    top:17px;
+    width:375px;
+    height:733px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:375px;
+    height:733px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:358px;
+    width:371px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:160px;
+    top:17px;
+    width:375px;
+    height:733px
+}
+
+.u2_original {
+    background-image: url('../activity_carroCompras_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:190px;
+    top:110px;
+    width:320px;
+    height:26px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:320px;
+    height:26px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:190px;
+    top:110px;
+    width:320px;
+    height:26px
+}
+
+.u4_original {
+    background-image: url('../activity_carroCompras_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:190px;
+    top:190px;
+    width:321px;
+    height:400px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:321px;
+    height:400px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:192px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:190px;
+    top:190px;
+    width:321px;
+    height:400px
+}
+
+.u6_original {
+    background-image: url('../cabecera_files/u6_original.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:190px;
+    top:137px;
+    width:320px;
+    height:50px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:56px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:190px;
+    top:137px;
+    width:320px;
+    height:50px
+}
+
+.u9 {
+    position:absolute;
+    left:277px;
+    top:147px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:277px;
+    top:164px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_original {
+    background-image: url('../activity_carroCompras_files/u11_original.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:190px;
+    top:488px;
+    width:320px;
+    height:50px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:56px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:190px;
+    top:488px;
+    width:320px;
+    height:50px
+}
+
+.u13 {
+    position:absolute;
+    left:275px;
+    top:500px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:275px;
+    top:514px;
+    width:150px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_original {
+    background-image: url('../activity_carroCompras_files/u15_original.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:425px;
+    top:146px;
+    width:80px;
+    height:30px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:425px;
+    top:146px;
+    width:80px;
+    height:30px
+}
+
+.u17_original {
+    background-image: url('../activity_carroCompras_files/u17_original.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:196px;
+    top:146px;
+    width:80px;
+    height:30px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:36px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:196px;
+    top:146px;
+    width:80px;
+    height:30px
+}
+
+.u19_original {
+    background-image: url('../activity_carroCompras_files/u19_original.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:190px;
+    top:216px;
+    width:310px;
+    height:60px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:66px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:190px;
+    top:216px;
+    width:310px;
+    height:60px
+}
+
+.u21 {
+    position:absolute;
+    left:200px;
+    top:224px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:410px;
+    top:224px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:200px;
+    top:241px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:340px;
+    top:241px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_original {
+    background-image: url('../activity_carroCompras_files/u26_original.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:310px;
+    height:260px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:316px;
+    height:266px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:122px;
+    width:306px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:310px;
+    height:260px
+}
+
+.u28 {
+    position:absolute;
+    left:47px;
+    top:80px;
+    width:210px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_original {
+    background-image: url('../activity_carroCompras_files/u29_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:47px;
+    top:170px;
+    width:210px;
+    height:40px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:216px;
+    height:46px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:206px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:47px;
+    top:170px;
+    width:210px;
+    height:40px
+}
+
+.u31_original {
+    background-image: url('../activity_carroCompras_files/u31_original.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:404px;
+    top:530px;
+    width:106px;
+    height:50px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:56px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:404px;
+    top:530px;
+    width:106px;
+    height:50px
+}
+
+.u33_original {
+    background-image: url('../activity_carroCompras_files/u33_original.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:440px;
+    top:538px;
+    width:32px;
+    height:32px;
+}
+
+#u33_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:440px;
+    top:538px;
+    width:32px;
+    height:32px
+}
+
+.u35_original {
+    background-image: url('../activity_carroCompras_files/u35_original.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:450px;
+    top:145px;
+    width:33px;
+    height:32px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:33px;
+    height:32px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:450px;
+    top:145px;
+    width:33px;
+    height:32px
+}
+
+.u37_original {
+    background-image: url('../MenuPrincipal_files/u37_original.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:190px;
+    top:530px;
+    width:106px;
+    height:50px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:56px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:190px;
+    top:530px;
+    width:106px;
+    height:50px
+}
+
+.u39_original {
+    background-image: url('../MenuPrincipal_files/u37_original.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:297px;
+    top:530px;
+    width:106px;
+    height:50px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:112px;
+    height:56px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:297px;
+    top:530px;
+    width:106px;
+    height:50px
+}
+
+.u41_original {
+    background-image: url('../MenuPrincipal_files/u41_original.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:226px;
+    top:538px;
+    width:32px;
+    height:32px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:226px;
+    top:538px;
+    width:32px;
+    height:32px
+}
+
+.u43_original {
+    background-image: url('../MenuPrincipal_files/u43_original.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:323px;
+    top:528px;
+    width:48px;
+    height:48px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:48px;
+    height:48px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:44px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:323px;
+    top:528px;
+    width:48px;
+    height:48px
+}
+
